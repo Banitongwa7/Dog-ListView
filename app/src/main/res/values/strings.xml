@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TD2</string>
+    <string name="AKTOR">Le Bulldog anglais est un chien robuste et musclé, avec une tête large et un museau écrasé. Il
+        est connu pour son tempérament doux et affectueux, ce qui en fait un excellent animal de compagnie pour les
+        familles. Ils ont tendance à avoir un peu de mal à respirer en raison de leur museau plat, donc il est important
+        de surveiller leur activité physique et de ne pas les laisser trop se fatiguer.
+    </string>
+    <string name="DANKO">Le Labrador Retriever est un chien de taille moyenne à grande, avec un pelage court et dense qui peut être noir,
+        brun ou beige.</string>
+    <string name="MAX">
+        Le Caniche est un chien élégant et intelligent, qui est connu pour son pelage bouclé et hypoallergénique. Ils
+        viennent dans une variété de tailles, allant du petit Caniche Toy au grand Caniche Standard. Les Caniches sont
+        souvent utilisés comme chiens de compagnie et sont connus pour leur intelligence et leur capacité à apprendre
+        rapidement de nouveaux comportements.
+    </string>
+    <string name="LUCKY">
+        Le Chihuahua est une petite race de chien originaire du Mexique, connue pour sa petite taille et son tempérament
+        vif. Ils ont souvent un pelage court et lisse, bien que certains puissent avoir un pelage plus long et soyeux.
+        Les Chihuahuas sont fréquemment très affectueux avec leur propriétaire, mais peuvent être timides avec les
+        étrangers.
+    </string>
+    <string name="OSCAR">
+        Le Boxer est un chien musclé et athlétique, avec un pelage court et dense qui peut être brun, fauve ou noir.
+        C\'est un chien énergique qui a besoin de beaucoup d\'exercice et de stimulation mentale pour être heureux. Les
+        Boxers sont souvent très affectueux avec leur famille, mais peuvent être méfiants envers les étrangers.
+    </string>
+    <string name="JAZZ">
+        Le Berger allemand est une race de chien intelligente et athlétique, souvent utilisée comme chien de travail
+        pour les forces de l\'ordre et les secouristes. Ils ont un pelage dense et noir, brun ou fauve, et sont connus
+        pour leur obéissance et leur capacité à apprendre rapidement. Les Bergers allemands sont fréquemment très affectueux
+        avec leur famille, mais peuvent être méfiants envers les étrangers.
+    </string>
+</resources>
